@@ -14,4 +14,7 @@ public class main2 {
 		System.out.println("this is division");
 	}
 	
+	public void add() {
+		System.out.println("this is addition");
+	}
 }
