@@ -9,4 +9,8 @@ public class main2 {
 	public void multi() {
 		System.out.println("this is multiplication");
 	}
+	
+	public void add() {
+		System.out.println("this is addition");
+	}
 }
