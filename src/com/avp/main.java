@@ -5,6 +5,7 @@ public class main {
 	public void add(int a,int b)
 	{
 		System.out.println(a+b);
+		System.out.println("added 2nd line in add");
 	}
 	public static void main(String[] args) {
 		
